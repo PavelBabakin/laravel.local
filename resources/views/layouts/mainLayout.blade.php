@@ -38,7 +38,7 @@
 <body>
 <div class="container">
     <div class="content">
-        <div class="title">Home Page</div>
+        <div class="title">@yield('content')</div>
     </div>
 </div>
 </body>
